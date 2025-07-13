@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Ask Anything</h1>
+        <form method="post" action="/chat/" class="chat-form">
+            <input type="text" name="question" placeholder="Enter your question..." required />
+            <button type="submit">Ask</button>
+        </form>
+
+        {% if question %}
+        <div class="chat-box">
+            <div class="message user-msg">
+                <strong>You:</strong> {{ question }}
+            </div>
+            <div class="message context-msg">
+                <strong>📚 Context:</strong> {{ context }}
+            </div>
+            <div class="message bot-msg">
+                <strong>🤖 Answer:</strong> {{ answer }}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
