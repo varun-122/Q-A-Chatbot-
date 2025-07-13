@@ -39,5 +39,5 @@ I set out to build a chatbot that could answer user queries dynamically using op
 ## 🎥 Preview
 🎞️ **Preview**
 
-[▶️ Watch Demo Video](./assets/preview.mp4)
+[▶️ Watch Demo Video](./assets/Screenshot 2025-07-14 020245.png)
 
