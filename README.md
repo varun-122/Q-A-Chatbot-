@@ -37,4 +37,4 @@ I set out to build a chatbot that could answer user queries dynamically using op
 ---
 
 ## 🎥 Preview
-[▶️ Watch Demo Video](./assets/preview.mp4)
+[▶️ Watch Demo Video](./assets/AI Chatbot - Brave 2025-07-14 01-32-46.mp4)
