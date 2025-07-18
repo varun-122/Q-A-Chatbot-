@@ -36,8 +36,7 @@ I set out to build a chatbot that could answer user queries dynamically using op
 
 ---
 
-## 🎥 Preview
-🎞️ **Preview**
+## 🎞️ **Preview**
 
 [![Watch Demo](./assets/Screenshot%202025-07-14%20020245.png)](./assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
